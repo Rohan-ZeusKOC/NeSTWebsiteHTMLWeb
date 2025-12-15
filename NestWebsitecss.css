@@ -1,0 +1,14 @@
+.smallhead{
+    font-style: italic;
+    color:blue;
+
+}
+.section{
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0), rgba(0, 0, 0, 0.667));
+    border-style: groove;
+    border-radius: 28px;
+    color: white;
+  text-shadow: 2px 2px 4px #000000;
+  margin:5px ;
+  padding:30px; 
+}
